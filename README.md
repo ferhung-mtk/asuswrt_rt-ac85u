@@ -17,7 +17,7 @@ sudo cd /opt/release/src-ra-5010
 ``` bash
 export PATH=/opt/brcm/hndtools-mipsel-linux/bin:$PATH
 export PATH=/opt/brcm/hndtools-mipsel-uclibc/bin:$PATH
-export PATH=/opt/buildroot-gcc342/bin:$PATH
+export PATH=/opt/buildroot-gcc463/bin:$PATH
 ```
 
 ``` bash
