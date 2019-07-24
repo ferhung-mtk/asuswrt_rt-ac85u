@@ -11,7 +11,7 @@ git clone https://github.com/ferhung-mtk/asuswrt_rt-ac85u.git
 
 ``` bash
 sudo mv /opt/asuswrt_rt-ac85u/* /opt/
-sudo cd /opt/release/src-ra-5010
+cd /opt/release/src-ra-5010
 ```
 
 ``` bash
